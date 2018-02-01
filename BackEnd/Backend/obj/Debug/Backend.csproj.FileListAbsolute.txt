@@ -1,0 +1,146 @@
+C:\Users\Gleam\Desktop\empeek_interview\Test\Backend\Backend\bin\ApplicationInsights.config
+C:\Users\Gleam\Desktop\empeek_interview\Test\Backend\Backend\bin\roslyn\csc.exe
+C:\Users\Gleam\Desktop\empeek_interview\Test\Backend\Backend\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Gleam\Desktop\empeek_interview\Test\Backend\Backend\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Gleam\Desktop\empeek_interview\Test\Backend\Backend\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Gleam\Desktop\empeek_interview\Test\Backend\Backend\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Gleam\Desktop\empeek_interview\Test\Backend\Backend\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Gleam\Desktop\empeek_interview\Test\Backend\Backend\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Gleam\Desktop\empeek_interview\Test\Backend\Backend\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Gleam\Desktop\empeek_interview\Test\Backend\Backend\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Gleam\Desktop\empeek_interview\Test\Backend\Backend\bin\roslyn\vbc.exe
+C:\Users\Gleam\Desktop\empeek_interview\Test\Backend\Backend\bin\roslyn\VBCSCompiler.exe
+C:\Users\Gleam\Desktop\empeek_interview\Test\Backend\Backend\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Gleam\Desktop\empeek_interview\Test\Backend\Backend\bin\Users.db
+C:\Users\Gleam\Desktop\empeek_interview\Test\Backend\Backend\bin\Backend.dll.config
+C:\Users\Gleam\Desktop\empeek_interview\Test\Backend\Backend\bin\Backend.dll
+C:\Users\Gleam\Desktop\empeek_interview\Test\Backend\Backend\bin\Backend.pdb
+C:\Users\Gleam\Desktop\empeek_interview\Test\Backend\Backend\bin\EntityFramework.dll
+C:\Users\Gleam\Desktop\empeek_interview\Test\Backend\Backend\bin\EntityFramework.SqlServer.dll
+C:\Users\Gleam\Desktop\empeek_interview\Test\Backend\Backend\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\Gleam\Desktop\empeek_interview\Test\Backend\Backend\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\Gleam\Desktop\empeek_interview\Test\Backend\Backend\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\Gleam\Desktop\empeek_interview\Test\Backend\Backend\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\Gleam\Desktop\empeek_interview\Test\Backend\Backend\bin\Microsoft.AI.Web.dll
+C:\Users\Gleam\Desktop\empeek_interview\Test\Backend\Backend\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\Gleam\Desktop\empeek_interview\Test\Backend\Backend\bin\Microsoft.ApplicationInsights.dll
+C:\Users\Gleam\Desktop\empeek_interview\Test\Backend\Backend\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Gleam\Desktop\empeek_interview\Test\Backend\Backend\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Gleam\Desktop\empeek_interview\Test\Backend\Backend\bin\Newtonsoft.Json.dll
+C:\Users\Gleam\Desktop\empeek_interview\Test\Backend\Backend\bin\Swashbuckle.Core.dll
+C:\Users\Gleam\Desktop\empeek_interview\Test\Backend\Backend\bin\System.Data.SQLite.dll
+C:\Users\Gleam\Desktop\empeek_interview\Test\Backend\Backend\bin\System.Data.SQLite.EF6.dll
+C:\Users\Gleam\Desktop\empeek_interview\Test\Backend\Backend\bin\System.Data.SQLite.Linq.dll
+C:\Users\Gleam\Desktop\empeek_interview\Test\Backend\Backend\bin\System.Net.Http.Formatting.dll
+C:\Users\Gleam\Desktop\empeek_interview\Test\Backend\Backend\bin\System.Web.Http.dll
+C:\Users\Gleam\Desktop\empeek_interview\Test\Backend\Backend\bin\System.Web.Http.WebHost.dll
+C:\Users\Gleam\Desktop\empeek_interview\Test\Backend\Backend\bin\WebActivatorEx.dll
+C:\Users\Gleam\Desktop\empeek_interview\Test\Backend\Backend\bin\EntityFramework.xml
+C:\Users\Gleam\Desktop\empeek_interview\Test\Backend\Backend\bin\EntityFramework.SqlServer.xml
+C:\Users\Gleam\Desktop\empeek_interview\Test\Backend\Backend\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\Gleam\Desktop\empeek_interview\Test\Backend\Backend\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\Gleam\Desktop\empeek_interview\Test\Backend\Backend\bin\Microsoft.AI.Web.xml
+C:\Users\Gleam\Desktop\empeek_interview\Test\Backend\Backend\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\Gleam\Desktop\empeek_interview\Test\Backend\Backend\bin\Microsoft.ApplicationInsights.xml
+C:\Users\Gleam\Desktop\empeek_interview\Test\Backend\Backend\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Gleam\Desktop\empeek_interview\Test\Backend\Backend\bin\System.Data.SQLite.xml
+C:\Users\Gleam\Desktop\empeek_interview\Test\Backend\Backend\bin\Newtonsoft.Json.xml
+C:\Users\Gleam\Desktop\empeek_interview\Test\Backend\Backend\bin\System.Net.Http.Formatting.xml
+C:\Users\Gleam\Desktop\empeek_interview\Test\Backend\Backend\bin\System.Web.Http.xml
+C:\Users\Gleam\Desktop\empeek_interview\Test\Backend\Backend\bin\System.Web.Http.WebHost.xml
+C:\Users\Gleam\Desktop\empeek_interview\Test\Backend\Backend\obj\Debug\Backend.dll
+C:\Users\Gleam\Desktop\empeek_interview\Test\Backend\Backend\obj\Debug\Backend.pdb
+C:\Users\Gleam\Desktop\empeek_interview\Test\Backend\Backend\obj\Debug\Backend.csprojResolveAssemblyReference.cache
+C:\Users\Gleam\Desktop\empeek_interview\Test\Backend\Backend\bin\Antlr3.Runtime.dll
+C:\Users\Gleam\Desktop\empeek_interview\Test\Backend\Backend\bin\System.Web.Helpers.dll
+C:\Users\Gleam\Desktop\empeek_interview\Test\Backend\Backend\bin\System.Web.Mvc.dll
+C:\Users\Gleam\Desktop\empeek_interview\Test\Backend\Backend\bin\System.Web.Optimization.dll
+C:\Users\Gleam\Desktop\empeek_interview\Test\Backend\Backend\bin\System.Web.Razor.dll
+C:\Users\Gleam\Desktop\empeek_interview\Test\Backend\Backend\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Gleam\Desktop\empeek_interview\Test\Backend\Backend\bin\System.Web.WebPages.dll
+C:\Users\Gleam\Desktop\empeek_interview\Test\Backend\Backend\bin\System.Web.WebPages.Razor.dll
+C:\Users\Gleam\Desktop\empeek_interview\Test\Backend\Backend\bin\WebGrease.dll
+C:\Users\Gleam\Desktop\empeek_interview\Test\Backend\Backend\bin\Antlr3.Runtime.pdb
+C:\Users\Gleam\Desktop\empeek_interview\Test\Backend\Backend\bin\System.Web.Helpers.xml
+C:\Users\Gleam\Desktop\empeek_interview\Test\Backend\Backend\bin\System.Web.Mvc.xml
+C:\Users\Gleam\Desktop\empeek_interview\Test\Backend\Backend\bin\System.Web.Optimization.xml
+C:\Users\Gleam\Desktop\empeek_interview\Test\Backend\Backend\bin\System.Web.Razor.xml
+C:\Users\Gleam\Desktop\empeek_interview\Test\Backend\Backend\bin\System.Web.WebPages.xml
+C:\Users\Gleam\Desktop\empeek_interview\Test\Backend\Backend\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Gleam\Desktop\empeek_interview\Test\Backend\Backend\bin\System.Web.WebPages.Razor.xml
+C:\Users\Gleam\Desktop\empeek_interview\Test\Backend\Backend\bin\System.Web.Cors.dll
+C:\Users\Gleam\Desktop\empeek_interview\Test\Backend\Backend\bin\System.Web.Http.Cors.dll
+C:\Users\Gleam\Desktop\empeek_interview\Test\Backend\Backend\bin\System.Web.Http.Cors.xml
+E:\Testing Project\Emptik\Backend\Backend\bin\ApplicationInsights.config
+E:\Testing Project\Emptik\Backend\Backend\bin\roslyn\csc.exe
+E:\Testing Project\Emptik\Backend\Backend\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\Testing Project\Emptik\Backend\Backend\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\Testing Project\Emptik\Backend\Backend\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\Testing Project\Emptik\Backend\Backend\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\Testing Project\Emptik\Backend\Backend\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\Testing Project\Emptik\Backend\Backend\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\Testing Project\Emptik\Backend\Backend\bin\roslyn\System.Collections.Immutable.dll
+E:\Testing Project\Emptik\Backend\Backend\bin\roslyn\System.Reflection.Metadata.dll
+E:\Testing Project\Emptik\Backend\Backend\bin\roslyn\vbc.exe
+E:\Testing Project\Emptik\Backend\Backend\bin\roslyn\VBCSCompiler.exe
+E:\Testing Project\Emptik\Backend\Backend\bin\roslyn\VBCSCompiler.exe.config
+E:\Testing Project\Emptik\Backend\Backend\bin\Users.db
+E:\Testing Project\Emptik\Backend\Backend\bin\Backend.dll.config
+E:\Testing Project\Emptik\Backend\Backend\bin\Backend.dll
+E:\Testing Project\Emptik\Backend\Backend\bin\Backend.pdb
+E:\Testing Project\Emptik\Backend\Backend\bin\Antlr3.Runtime.dll
+E:\Testing Project\Emptik\Backend\Backend\bin\EntityFramework.dll
+E:\Testing Project\Emptik\Backend\Backend\bin\EntityFramework.SqlServer.dll
+E:\Testing Project\Emptik\Backend\Backend\bin\Microsoft.AI.Agent.Intercept.dll
+E:\Testing Project\Emptik\Backend\Backend\bin\Microsoft.AI.DependencyCollector.dll
+E:\Testing Project\Emptik\Backend\Backend\bin\Microsoft.AI.PerfCounterCollector.dll
+E:\Testing Project\Emptik\Backend\Backend\bin\Microsoft.AI.ServerTelemetryChannel.dll
+E:\Testing Project\Emptik\Backend\Backend\bin\Microsoft.AI.Web.dll
+E:\Testing Project\Emptik\Backend\Backend\bin\Microsoft.AI.WindowsServer.dll
+E:\Testing Project\Emptik\Backend\Backend\bin\Microsoft.ApplicationInsights.dll
+E:\Testing Project\Emptik\Backend\Backend\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\Testing Project\Emptik\Backend\Backend\bin\Microsoft.Web.Infrastructure.dll
+E:\Testing Project\Emptik\Backend\Backend\bin\Newtonsoft.Json.dll
+E:\Testing Project\Emptik\Backend\Backend\bin\Swashbuckle.Core.dll
+E:\Testing Project\Emptik\Backend\Backend\bin\System.Data.SQLite.dll
+E:\Testing Project\Emptik\Backend\Backend\bin\System.Data.SQLite.EF6.dll
+E:\Testing Project\Emptik\Backend\Backend\bin\System.Data.SQLite.Linq.dll
+E:\Testing Project\Emptik\Backend\Backend\bin\System.Net.Http.Formatting.dll
+E:\Testing Project\Emptik\Backend\Backend\bin\System.Web.Cors.dll
+E:\Testing Project\Emptik\Backend\Backend\bin\System.Web.Helpers.dll
+E:\Testing Project\Emptik\Backend\Backend\bin\System.Web.Http.Cors.dll
+E:\Testing Project\Emptik\Backend\Backend\bin\System.Web.Http.dll
+E:\Testing Project\Emptik\Backend\Backend\bin\System.Web.Http.WebHost.dll
+E:\Testing Project\Emptik\Backend\Backend\bin\System.Web.Mvc.dll
+E:\Testing Project\Emptik\Backend\Backend\bin\System.Web.Optimization.dll
+E:\Testing Project\Emptik\Backend\Backend\bin\System.Web.Razor.dll
+E:\Testing Project\Emptik\Backend\Backend\bin\System.Web.WebPages.Deployment.dll
+E:\Testing Project\Emptik\Backend\Backend\bin\System.Web.WebPages.dll
+E:\Testing Project\Emptik\Backend\Backend\bin\System.Web.WebPages.Razor.dll
+E:\Testing Project\Emptik\Backend\Backend\bin\WebActivatorEx.dll
+E:\Testing Project\Emptik\Backend\Backend\bin\WebGrease.dll
+E:\Testing Project\Emptik\Backend\Backend\bin\Antlr3.Runtime.pdb
+E:\Testing Project\Emptik\Backend\Backend\bin\EntityFramework.xml
+E:\Testing Project\Emptik\Backend\Backend\bin\EntityFramework.SqlServer.xml
+E:\Testing Project\Emptik\Backend\Backend\bin\Microsoft.AI.DependencyCollector.xml
+E:\Testing Project\Emptik\Backend\Backend\bin\Microsoft.AI.ServerTelemetryChannel.xml
+E:\Testing Project\Emptik\Backend\Backend\bin\Microsoft.AI.Web.xml
+E:\Testing Project\Emptik\Backend\Backend\bin\Microsoft.AI.WindowsServer.xml
+E:\Testing Project\Emptik\Backend\Backend\bin\Microsoft.ApplicationInsights.xml
+E:\Testing Project\Emptik\Backend\Backend\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\Testing Project\Emptik\Backend\Backend\bin\System.Data.SQLite.xml
+E:\Testing Project\Emptik\Backend\Backend\bin\System.Web.Helpers.xml
+E:\Testing Project\Emptik\Backend\Backend\bin\System.Web.Http.Cors.xml
+E:\Testing Project\Emptik\Backend\Backend\bin\System.Web.Mvc.xml
+E:\Testing Project\Emptik\Backend\Backend\bin\System.Web.Optimization.xml
+E:\Testing Project\Emptik\Backend\Backend\bin\System.Web.Razor.xml
+E:\Testing Project\Emptik\Backend\Backend\bin\System.Web.WebPages.xml
+E:\Testing Project\Emptik\Backend\Backend\bin\System.Web.WebPages.Deployment.xml
+E:\Testing Project\Emptik\Backend\Backend\bin\System.Web.WebPages.Razor.xml
+E:\Testing Project\Emptik\Backend\Backend\bin\Newtonsoft.Json.xml
+E:\Testing Project\Emptik\Backend\Backend\bin\System.Net.Http.Formatting.xml
+E:\Testing Project\Emptik\Backend\Backend\bin\System.Web.Http.xml
+E:\Testing Project\Emptik\Backend\Backend\bin\System.Web.Http.WebHost.xml
+E:\Testing Project\Emptik\Backend\Backend\obj\Debug\Backend.csprojResolveAssemblyReference.cache
+E:\Testing Project\Emptik\Backend\Backend\obj\Debug\Backend.dll
+E:\Testing Project\Emptik\Backend\Backend\obj\Debug\Backend.pdb

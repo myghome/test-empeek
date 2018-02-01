@@ -1,0 +1,51 @@
+<h2 class="text-center">{{user?.Name}}' s pets</h2>
+
+<form autocomplete="off"  class=" form-group col-sm-6 col-sm-offset-3" #petForm="ngForm"
+      (ngSubmit)="addPet(petForm.value.name)" novalidate>
+  <em *ngIf="petForm.controls.name?.invalid  &&  mouseoverLogin">Enter name</em>
+  <div class="form-group  col-sm-8">
+    <input name="name" (ngModel)="name" class="form-control" placeholder="Enter Pet's name" required>
+  </div>
+  <div class="form-group col-sm-4" (mouseenter)="mouseoverLogin=true" (mouseleave)="mouseoverLogin=false">
+    <div [hidden]="addLoad">
+      <button class="btn btn-primary form-control" type="submit" [disabled]="petForm.invalid">Add</button>
+    </div>
+    <div [hidden]="!addLoad">
+      <i class=" fa delete-btn fa-spinner fa-spin fa-2x fa-fw "></i>
+    </div>
+  </div>
+</form>
+
+<div class="col-xs-8 col-xs-offset-2">
+  <hr>
+  <a routerLink="/users">Back to all user</a>
+</div>
+
+<div class="table-responsive col-sm-8 col-sm-offset-2">
+  <p>Total count :{{user?.Pets.length}} </p>
+  <table class="table table-striped">
+    <thead>
+    <tr>
+      <th class="col-sm-6" >Name</th>
+    </tr>
+    </thead>
+    <tbody *ngIf="!load">
+    <tr *ngFor="let pet of viewPets">
+      <td >
+        {{pet.Name}}
+        <span [hidden]="deleteLoad">
+          <button  class="btn btn-default contant-right" (click)="deletePet(pet.Id)">DELETE</button>
+        </span>
+        <span [hidden]="!deleteLoad"> <i  class="  fa fa-spinner fa-spin fa-2x fa-fw contant-right "></i> </span>
+      </td>
+    </tr>
+    </tbody>
+  </table>
+   <div class="text-center">
+    <i *ngIf="load" class=" fa fa-spinner fa-spin fa-3x fa-fw "></i><br>
+    <span class="pagination-text" *ngFor="let pageNumber of paginationArray" (click)="onChangePage(pageNumber)">
+         {{pageNumber}}<span *ngIf="pageNumber!=paginationArray.length"> ,</span>
+    </span>
+  </div>
+</div>
+
